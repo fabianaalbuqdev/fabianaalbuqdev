@@ -1,19 +1,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:090B1A,50:20234B,100:604078&height=160&section=header&text=Fabiana%20de%20Brito&fontSize=42&fontColor=E8C994&fontAlignY=35&desc=Salesforce%20Administration%20%E2%9C%A6%20Software%20Development%20%E2%9C%A6%20CRM%20%E2%9C%A6%20FLOW&descAlignY=62&descSize=14&animation=fadeIn" />
+<!-- IMAGEM DO TOPO -->
+<img width="100%" src="./1.jpeg" alt="Ilustração Mystic Girl" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3000&pause=1000&color=E8C994&center=true&vCenter=true&width=650&lines=Geminiana+%E2%99%8A;Entre+c%C3%B3digo%2C+games+e+universos+fant%C3%A1sticos+%F0%9F%8E%AE;Construindo+meu+caminho+em+Salesforce+%E2%98%81%EF%B8%8F;Entre+estrelas%2C+c%C3%B3digo+e+possibilidades+%F0%9F%8C%99" alt="Frases animadas" />
-
-<br/>
-
-[![Salesforce](https://img.shields.io/badge/Salesforce-Trailhead-34365F?style=for-the-badge&logo=salesforce&logoColor=E8C994)](https://www.salesforce.com/trailblazer/fabiana-de-brito-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiana-20234B?style=for-the-badge&logo=linkedin&logoColor=E8C994)](https://www.linkedin.com/in/fabiana-de-brito-dev)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Meus_projetos-604078?style=for-the-badge&logo=githubpages&logoColor=E8C994)](https://fabianaalbuqdev.github.io/portfolio-fabiana/)
+<!-- FRASES ANIMADAS -->
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=2800&pause=900&color=E8C994&center=true&vCenter=true&width=750&height=130&lines=Geminiana+%E2%99%8A;Curiosa+por+natureza%2C+criativa+por+ess%C3%AAncia+%E2%9C%A8;Entre+c%C3%B3digo%2C+games+e+universos+fant%C3%A1sticos+%F0%9F%8E%AE;Explorando+o+universo+Salesforce+%E2%98%81%EF%B8%8F;Aprendendo+Apex+e+transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;L%C3%B3gica+de+programadora%2C+alma+de+gamer+%F0%9F%8C%99;Tecnologia%2C+mist%C3%A9rio+e+imagina%C3%A7%C3%A3o+%E2%9C%A6;Cada+desafio+abre+um+novo+portal+%F0%9F%94%AE;Construindo+meu+caminho+em+Software+Development+%E2%9C%A8;Entre+estrelas%2C+c%C3%B3digo+e+possibilidades+%E2%9C%A6" alt="Frases animadas sobre mim" />
 
 <br/>
 
-✦ ─────────────── ☾ ✧ ☽ ─────────────── ✦
+<!-- REDES SOCIAIS -->
+[![Salesforce](https://img.shields.io/badge/✦_Salesforce-TRAILHEAD-20234B?style=for-the-badge&logo=salesforce&logoColor=E8C994)](https://www.salesforce.com/trailblazer/fabiana-de-brito-dev)
+[![LinkedIn](https://img.shields.io/badge/☾_LINKEDIN-PERFIL-34365F?style=for-the-badge&logo=linkedin&logoColor=E8C994)](https://www.linkedin.com/in/fabiana-de-brito-dev)
+[![Portfólio](https://img.shields.io/badge/✧_PORTF%C3%93LIO-PROJETOS-604078?style=for-the-badge&logo=githubpages&logoColor=E8C994)](https://fabianaalbuqdev.github.io/portfolio-fabiana/)
+
+<br/>
+
+✦ ────────── ☾ ✧ ☽ ────────── ✦
 
 </div>
 
@@ -71,14 +74,15 @@ Gosto de unir lógica, criatividade e curiosidade para entender como as coisas f
 
 <div align="center">
 
-✦ ─────────────── ☾ ✧ ☽ ─────────────── ✦
+✦ ────────── ☾ ✧ ☽ ────────── ✦
 
 **୨୧ Entre estrelas, pixels e possibilidades. ✦**
 
 <sub>Feito com criatividade, código e um toque de magia. 🌙</sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:090B1A,50:20234B,100:604078&height=80&section=footer" width="100%" />
+<!-- IMAGEM DO FINAL -->
+<img width="100%" src="./2.jpeg" alt="Ilustração mística de encerramento" />
 
 </div>
