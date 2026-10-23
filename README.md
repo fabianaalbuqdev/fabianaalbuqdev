@@ -1,76 +1,61 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,35:DDA0DD,70:9370DB,100:191970&height=200&section=header&text=Fabiana%20de%20Brito&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=%E2%99%A1%20Gamer%20Girl%20%7C%20Desenvolvedora%20%7C%20Salesforce%20%20%E2%99%A1&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24113D,40:8F5AC8,75:F08BC5,100:FFC7E8&height=190&section=header&text=Fabiana%20de%20Brito&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20%E2%9C%A6%20Salesforce%20%E2%9C%A6%20Apex&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Bem-vindos+ao+meu+universo+rosa!+%F0%9F%8E%80;Programando+meu+proprio+destino+%F0%9F%92%BB;Entre+games%2C+codigo+e+sonhos+%F0%9F%8E%AE;Aprendendo+Salesforce+e+Apex+%E2%9C%A8" alt="Frases animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3000&pause=1000&color=E879C5&center=true&vCenter=true&width=600&lines=Tecnologia+com+criatividade+%E2%9C%A8;Entre+c%C3%B3digo%2C+games+e+universos+fant%C3%A1sticos+%F0%9F%8E%AE;Construindo+meu+caminho+em+Salesforce+%E2%98%81%EF%B8%8F;Curiosidade%2C+prop%C3%B3sito+e+imagina%C3%A7%C3%A3o+%F0%9F%8C%99" alt="Frases animadas" />
 
 <br/>
 
-🎀 💗 🎮 🦋 💻 ✨
-
-*“Se posso imaginar, posso aprender a programar.”*
-
-[![GitHub](https://img.shields.io/badge/MEU_GITHUB-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianaalbuqdev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-DDA0DD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-24113D?style=for-the-badge&logo=github&logoColor=FFC7E8)](https://github.com/fabianaalbuqdev)
+[![Salesforce](https://img.shields.io/badge/Salesforce-Caminho%20atual-8F5AC8?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conex%C3%B5es-E879C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
 ---
 
-## 🎀 Oii, eu sou a Fabiana!
-
-💗 Sou estudante de **Engenharia de Software** e desenvolvedora de software, apaixonada por tecnologia e por tudo que posso criar com algumas linhas de código.
-
-🎮 Amo a ideia de unir criatividade, universo gamer e programação. Atualmente, estou construindo minha jornada no ecossistema Salesforce e aprendendo Apex para desenvolver soluções cada vez melhores.
-
-🌸 **Um pouquinho sobre mim:**
-
-- 💻 Experiência com desenvolvimento e manutenção de sistemas.
-- ☁️ Explorando o universo Salesforce.
-- ⚡ Estudando programação com Apex.
-- 🧁 Aprendendo, praticando e criando projetos.
-- 🎮 Gamer girl com alma de programadora.
-- 🦋 Evoluindo um commit de cada vez!
-
----
-
-## 💕 Meu arsenal de tecnologia
+## 🌷 Sobre mim
 
 <div align="center">
 
-![Salesforce](https://img.shields.io/badge/Salesforce-FFB6D9?style=for-the-badge&logo=salesforce&logoColor=54278F)
-![Apex](https://img.shields.io/badge/Apex-E6B3FF?style=for-the-badge&logo=salesforce&logoColor=54278F)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-FF8FAB?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF0A6?style=for-the-badge&logo=javascript&logoColor=333333)
-![HTML5](https://img.shields.io/badge/HTML5-FFB38A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-CDB4FF?style=for-the-badge&logo=css3&logoColor=54278F)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-BDE0FE?style=for-the-badge&logo=postgresql&logoColor=24527A)
-![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=333333)
+<img src="https://img.shields.io/badge/ENGENHARIA%20DE%20SOFTWARE-FFC7E8?style=flat-square&labelColor=24113D" />
+<img src="https://img.shields.io/badge/DESENVOLVIMENTO-DFB8FF?style=flat-square&labelColor=24113D" />
+<img src="https://img.shields.io/badge/SALESFORCE%20%26%20APEX-C9B6FF?style=flat-square&labelColor=24113D" />
+
+</div>
+
+Sou estudante de Engenharia de Software e desenvolvedora, com experiência na manutenção e evolução de sistemas. Atualmente, estou aprofundando meus conhecimentos em Salesforce e Apex.
+
+Gosto de unir lógica, criatividade e curiosidade para entender como as coisas funcionam e transformar ideias em soluções.
+
+🌙 Tecnologia, games e imaginação fazem parte do universo que inspira meus projetos.
+
+---
+
+## 🎀 Meu arsenal de tecnologia
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,git,github&theme=light" alt="Tecnologias de desenvolvimento" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SALESFORCE-Estudos%20e%20pr%C3%A1tica-8F5AC8?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/APEX-Aprendizado-E879C5?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/FLOW-Automa%C3%A7%C3%A3o-C9B6FF?style=for-the-badge&logo=salesforce&logoColor=24113D" />
 
 </div>
 
 ---
 
-## 🦋 Minha jornada de aprendizado
+## 💣 Meu mapa gamer
 
-🌷 **Salesforce**
-- Administração e configuração da plataforma.
-- Modelagem de dados e objetos personalizados.
-- Automação com Flow.
-- Fundamentos de desenvolvimento com Apex.
+<div align="center">
 
-🌷 **Desenvolvimento de software**
-- Ruby on Rails.
-- JavaScript, HTML e CSS.
-- PostgreSQL.
-- Testes, depuração e manutenção de sistemas.
+<img src="https://raw.githubusercontent.com/fabianaalbuqdev/pacman-contribution-graph/output/bomberman-contribution-graph.svg" width="100%" alt="Animação do Bomberman no gráfico de contribuições" />
 
-🌷 **Meu próximo nível**
-- ✨ Aprofundar meus conhecimentos em Apex.
-- 💖 Criar projetos práticos com Salesforce.
-- 🎮 Compartilhar minha jornada de aprendizado.
-- 🚀 Crescer como desenvolvedora Salesforce.
+</div>
 
 ---
 
@@ -78,26 +63,24 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fabianaalbuqdev&show_icons=true&hide_border=true&bg_color=FFF0F6&title_color=DB4C9A&icon_color=9B5DE5&text_color=674A70&ring_color=FF69B4&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fabianaalbuqdev&show_icons=true&hide_border=true&bg_color=24113D&title_color=FFC7E8&icon_color=E879C5&text_color=F5E9FF&include_all_commits=true" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianaalbuqdev&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=DB4C9A&text_color=674A70" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianaalbuqdev&layout=compact&hide_border=true&bg_color=24113D&title_color=FFC7E8&text_color=F5E9FF" alt="Linguagens mais usadas" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=fabianaalbuqdev&theme=transparent&hide_border=true&background=24113D&ring=E879C5&fire=FFC7E8&currStreakLabel=FFC7E8&sideLabels=F5E9FF&dates=C9B6FF" alt="Sequência de contribuições" />
 
 </div>
 
 ---
 
-## 💌 Vamos nos conectar?
-
 <div align="center">
 
-🌸 Estou sempre aberta a aprender, trocar conhecimentos e conhecer pessoas apaixonadas por tecnologia!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC7E8,45:E879C5,75:8F5AC8,100:24113D&height=120&section=footer" width="100%" />
 
-[![GitHub](https://img.shields.io/badge/Me_encontre_no_GitHub-DB4C9A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabianaalbuqdev)
+**୨୧ Entre estrelas, pixels e possibilidades. ✦**
 
-<br/>
-
-🎀 **Feita de sonhos, café, jogos e código.** 🎀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:191970,50:9370DB,100:FF69B4&height=120&section=footer" width="100%" />
+<sub>Desenvolvido com criatividade, café e um toque de magia. ☕🌙</sub>
 
 </div>
