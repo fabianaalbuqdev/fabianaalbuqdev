@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:090B1A,50:20234B,100:604078&height=160&section=header&text=Fabiana%20de%20Brito&fontSize=42&fontColor=E8C994&fontAlignY=45&desc=Desenvolvimento%20%E2%9C%A6%20Salesforce%20%E2%9C%A6%20Apex&descAlignY=70&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=0:090B1A,50:20234B,100:604078&height=160&section=header&text=Fabiana%20de%20Brito&fontSize=42&fontColor=E8C994&fontAlignY=35&desc=Salesforce%20Administration%20%E2%9C%A6%20Software%20Development%20%E2%9C%A6%20CRM%20%E2%9C%A6%20FLOW&descAlignY=62&descSize=14&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3000&pause=1000&color=E8C994&center=true&vCenter=true&width=650&lines=Tecnologia+com+criatividade+%E2%9C%A8;Entre+c%C3%B3digo%2C+games+e+universos+fant%C3%A1sticos+%F0%9F%8E%AE;Construindo+meu+caminho+em+Salesforce+%E2%98%81%EF%B8%8F;Geminiana+%E2%99%8A+curiosa+por+natureza;Entre+estrelas%2C+c%C3%B3digo+e+possibilidades+%F0%9F%8C%99" alt="Frases animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=19&duration=3000&pause=1000&color=E8C994&center=true&vCenter=true&width=650&lines=Geminiana+%E2%99%8A;Entre+c%C3%B3digo%2C+games+e+universos+fant%C3%A1sticos+%F0%9F%8E%AE;Construindo+meu+caminho+em+Salesforce+%E2%98%81%EF%B8%8F;Entre+estrelas%2C+c%C3%B3digo+e+possibilidades+%F0%9F%8C%99" alt="Frases animadas" />
 
 <br/>
 
@@ -20,14 +20,6 @@
 ---
 
 ## 🌙 ✧ Sobre mim
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ENGENHARIA%20DE%20SOFTWARE-20234B?style=flat-square&labelColor=090B1A&color=E8C994" />
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO-604078?style=flat-square&labelColor=090B1A&color=D8B5E8" />
-<img src="https://img.shields.io/badge/SALESFORCE%20%26%20APEX-34365F?style=flat-square&labelColor=090B1A&color=B9A7F5" />
-
-</div>
 
 Sou estudante de Engenharia de Software e desenvolvedora, com experiência na manutenção e evolução de sistemas. Atualmente, estou aprofundando meus conhecimentos em Salesforce e Apex.
 
